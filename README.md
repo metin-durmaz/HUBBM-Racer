@@ -6,9 +6,8 @@ written in Java and JavaFX used for GUI.
 # How To Run
 to run in terminal:
 
--- javac *.java
-
--- java Assignment4
+    -- javac *.java
+    -- java Assignment4
 
 # Screenshots
 ![1](https://user-images.githubusercontent.com/78596308/107028018-ff9ea900-67bd-11eb-93ec-127a9f2d36bc.png)
